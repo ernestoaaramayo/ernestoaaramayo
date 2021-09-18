@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernestoaaramayo&label=Profile%20views&color=0e75b6&style=flat" alt="ernestoaaramayo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernestoaaramayo" alt="ernestoaaramayo" /></a> </p>
-
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, ReactJS, Redux, GIT and many more...**
 
 - 📫 How to reach me **ernestoaaramayo@hotmail.com**
